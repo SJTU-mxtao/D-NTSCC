@@ -62,3 +62,11 @@ python main.py \
   --dataset kitti \
   --loss psnr \
 ```
+
+## Requirements
+
+Install the required Python packages before training:
+
+```bash
+pip install -r requirements.txt
+```
